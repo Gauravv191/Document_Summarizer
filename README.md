@@ -26,7 +26,7 @@ This is a Python-based tool that reads documents (`.txt`, `.pdf`, `.docx`) and s
 
 1. **Clone the repository**
 ```bash
-https://github.com/Bhumesh2001/Document_Summarizer
+https://github.com/Gauravv191/Document_Summarizer
 cd document-summarizer
 
 2. Create .env file and add your Together.ai API key
